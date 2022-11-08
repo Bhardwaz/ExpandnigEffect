@@ -1,3 +1,4 @@
+# [Preview](https://expandingeffect.netlify.app/)
 # ![Screenshot](expandingEffectProj.PNG)
 # Expanding Effect ![Badge](https://img.shields.io/badge/Expanding-Effect-brightgreen)
 ### This Project has sections which can be expand on single click on them.
